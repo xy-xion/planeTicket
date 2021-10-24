@@ -1,2 +1,24 @@
-# 基于Echarts的一个单页应用，使用了中国地图，柱状图，曲线图，所有数据兼为假数据
+# test2
 
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
