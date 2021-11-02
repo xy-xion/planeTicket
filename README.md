@@ -1,6 +1,8 @@
+
+项目启动步骤：
+
 安装node包
 npm install
-```
 
 运行项目 
 npm run serve
