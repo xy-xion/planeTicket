@@ -1,16 +1,16 @@
-# 项目启动
+# test2
 
-## 安装node包
+## Project setup
 ```
 npm install
 ```
 
-### 运行项目
+### Compiles and hot-reloads for development
 ```
-npm run serve 
+npm run serve
 ```
 
-### 打包项目生成dist文件夹
+### Compiles and minifies for production
 ```
 npm run build
 ```
